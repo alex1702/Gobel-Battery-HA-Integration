@@ -4,6 +4,12 @@ description:
 
 # Changelog
 
+## [2.0.12.1] - 2026-10-14
+### Changed
+-   [Integration] Changed integration domain to `gobel_battery_elaonde` for a unique domain identifier.
+
+---------------
+
 ## [2.0.12] - 2026-07-25
 ### Fixed
 -   [JKBMS] Fixed setup frame voltage register parsing for `VolInverterMaxCharge` (Inverter Max Charge Voltage) at offset 38 and `VolFloatCharge` (Float Charge Voltage) at offset 42 (previously misidentified as battery undervoltage/overvoltage protection).
