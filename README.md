@@ -53,7 +53,7 @@ Unlike the previous Add-on version, this integration **does not require an MQTT 
 1. Ensure [HACS (Home Assistant Community Store)](https://hacs.xyz/) is installed.
 2. Go to **HACS -> Integrations** in Home Assistant.
 3. Click the three dots in the top-right corner and select **Custom repositories**.
-4. Paste the URL of this repository: `https://github.com/fancyui/Gobel-Battery-HA-Integration`
+4. Paste the URL of this repository: `https://github.com/alex1702/Gobel-Battery-HA-Integration`
 5. Select **Integration** as the Category and click **Add**.
 6. Find the **Gobel Battery Monitor** integration in HACS and click **Download**.
 7. Restart Home Assistant.

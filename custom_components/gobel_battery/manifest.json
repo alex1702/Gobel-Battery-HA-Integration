@@ -1,13 +1,14 @@
 {
-  "domain": "gobel_battery",
-  "name": "Gobel Battery Monitor",
+  "domain": "gobel_battery_elaonde",
+  "name": "Gobel Battery Monitor (Alex Version)",
   "codeowners": [
-    "@fancyui"
+    "@fancyui",
+    "@alex1702"
   ],
   "config_flow": true,
-  "documentation": "https://github.com/fancyui/Gobel-Battery-HA-Integration",
+  "documentation": "https://github.com/alex1702/Gobel-Battery-HA-Integration",
   "iot_class": "local_polling",
-  "issue_tracker": "https://github.com/fancyui/Gobel-Battery-HA-Integration/issues",
+  "issue_tracker": "https://github.com/alex1702/Gobel-Battery-HA-Integration/issues",
   "requirements": [
     "pyserial>=3.5"
   ],
