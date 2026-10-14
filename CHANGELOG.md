@@ -6,7 +6,7 @@ description:
 
 ## [2.0.12.2] - 2026-10-14
 ### Fixed
--   [JKBMS] Fixed the direction of the battery power value (kW) — it now correctly reflects charging (negative current) and discharging states.
+-   [JKBMS] Fix signed power direction so discharge energy is accumulated separately from charged energy. (Thanks @Arturo2869)
 
 ---------------
 
