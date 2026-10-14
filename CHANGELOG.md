@@ -4,6 +4,12 @@ description:
 
 # Changelog
 
+## [2.0.12.2] - 2026-10-14
+### Fixed
+-   [JKBMS] Fixed the direction of the battery power value (kW) — it now correctly reflects charging (negative current) and discharging states.
+
+---------------
+
 ## [2.0.12.1] - 2026-10-14
 ### Changed
 -   [Integration] Changed integration domain to `gobel_battery_elaonde` for a unique domain identifier.
