@@ -1,6 +1,6 @@
 """Constants for the Gobel Battery Monitor integration."""
 
-DOMAIN = "gobel_battery"
+DOMAIN = "gobel_battery_elaonde"
 
 CONF_BMS_TYPE = "bms_type"
 CONF_CONNECTION_TYPE = "connection_type"
